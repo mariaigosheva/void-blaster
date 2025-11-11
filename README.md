@@ -1,4 +1,5 @@
-# 🤖 Void Blaster
+# 🤖 Void Blaster 
+Project status WIP
 
 A React game built with **Vite**, featuring smooth player movement, alien enemies, laser shooting, and flame particles. This project demonstrates real-time animations, collision detection, and state management in React.
 
